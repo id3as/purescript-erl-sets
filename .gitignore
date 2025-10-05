@@ -1,0 +1,7 @@
+.spago
+output
+.psc-ide-port
+.purs-repl
+ebin
+.vscode
+_ignore/
